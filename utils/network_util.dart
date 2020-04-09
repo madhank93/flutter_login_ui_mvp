@@ -1,3 +1,4 @@
+
 class NetworkUtil {
 
   NetworkUtil.private();
